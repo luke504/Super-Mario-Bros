@@ -1,6 +1,4 @@
 ## Lista della Spesa 
-<<<<<<< HEAD
-=======
 
 + Carne
 + Pasta
@@ -11,4 +9,3 @@
 + Sciarpa
 + Cappello
 + Giacca
->>>>>>> ce23da081de778d1ba18ab99ec49b156a21f5f5d
