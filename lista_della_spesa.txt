@@ -1,1 +1,7 @@
 ## Lista della Spesa 
+
++ Carne
++ Pasta
++ Patatine
++ Salsa
++ Insalata
