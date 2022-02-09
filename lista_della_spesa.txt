@@ -1,5 +1,10 @@
 ## Lista della Spesa 
 
++ Carne
++ Pasta
++ Patatine
++ Salsa
++ Insalata
 + Lana
 + Sciarpa
 + Cappello
